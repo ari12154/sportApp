@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+.nav_main{
+    display: flex;
+    justify-content: space-between;
+    padding: 24px;
+   background-color: greenyellow;
+   
+    background-size: 1200px;
+}
+
+.container{
+   max-width: 40%;
+   margin-top: 10px;
+
+}
+/* מכאן זה קשןר למשחק המרכזי */
+.image_icon{
+    display: flex;
+    justify-content: space-between;
+}
+.btn_bet{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+
